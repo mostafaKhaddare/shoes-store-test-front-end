@@ -13,6 +13,12 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
     },
+    theme: {
+      fontFamily : {
+        oswald : "Oswald, sans-serif",
+        urbanist : "Urbanist, sans-serif"
+      }
+    }
   },
   plugins: [],
 }
